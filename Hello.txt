@@ -1,2 +1,2 @@
-Ligne modifiee sur develop
+Ligne resolue (develop + bug-fix)
 Deuxieme ligne
