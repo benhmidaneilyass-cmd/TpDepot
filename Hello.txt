@@ -1,2 +1,2 @@
-Ligne modifiee par B
+Ligne resolue (A + B)
 Deuxieme ligne
